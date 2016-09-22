@@ -1,0 +1,59 @@
+html
+
+body{
+	margin:25;
+	background-color:#242625;
+	padding: 0;
+	font-size: 85%;
+}
+
+.rectangle{
+	
+	width: 2000px;
+	height: 100px;
+	background-color: #0C8089;
+
+}
+
+h1{
+	background-color:;
+	color:#ffffff;
+	text-align: center;
+	font-size: 65px;
+	font-family: ;
+
+
+}
+
+h2{
+	
+	color:#ffffff;
+    text-align:center;
+    font-size: 25px;
+    font-family: 
+	
+}
+
+
+
+
+img{
+	width: 125px;
+	height: 125px;
+}
+
+ul{
+	background-color:#ffffff; 
+}
+
+.contact{
+	text-align: right;
+
+}
+
+
+
+
+
+
+
